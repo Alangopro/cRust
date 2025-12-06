@@ -5,7 +5,7 @@
 **cRust** is a **header-only experimental library** that brings a small, expressive subset of **Rust-style syntax** into standard **C and C++** through the preprocessor.
 It is aimed at developers who enjoy Rust’s clarity but need to remain within a C/C++ toolchain.
 
-
+###### (and no this is not https://github.com/tsoding/Crust, this is my own project on creating simple one header rust definitions for c/c++)
 
 ---
 
